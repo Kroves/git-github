@@ -1,6 +1,6 @@
 # Práctica de Git y Github
 
-Este repositorio fue creado mientras aprendía a usar Git y Github en [este curso de Platzi](https://platzi.com/clases/git-github/ "este curso de Platzi").
+Este repositorio fue creado mientras aprendía a usar Git y Github en [este curso de Platzi](https://platzi.com/clases/git-github/ "este curso de Platzi"). Si quieres ver los detalles de lo que iba realizando, tendrás que ver los commints o hacer un _Fork_ del proyecto para explorar los detalles de lo que fui realizando.
 
 ## Lo que pude aprender
 
@@ -17,4 +17,4 @@ Este curso estaba divido en varios módulos (cada uno con varias lecciones). Los
 
 ## Nota importante
 
-Al momento de crear este README.md no había terminado el curso. Al terminarlo pretendo colocar algún enlace al PDF (si no se me olvida), pero puedes ver [mi perfil de Platzi](https://platzi.com/@kennylajara/) y ver los cursos que he hecho para comprobar si ya lo terminé.
+Al momento de crear este README.md no había terminado el curso. Al terminarlo pretendo colocar algún enlace al diploma (si no se me olvida), pero puedes ver [mi perfil de Platzi](https://platzi.com/@kennylajara/) y ver los cursos que he hecho para comprobar si ya lo terminé.
