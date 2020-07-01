@@ -17,4 +17,6 @@ Este curso estaba divido en varios módulos (cada uno con varias lecciones). Los
 
 ## Nota importante
 
-Al momento de crear este README.md no había terminado el curso. Al terminarlo pretendo colocar algún enlace al diploma (si no se me olvida), pero puedes ver [mi perfil de Platzi](https://platzi.com/@kennylajara/) y ver los cursos que he hecho para comprobar si ya lo terminé.
+Puedes ver el resultado final [aquí](https://kennylajara.github.io/git-github/).
+
+Si quieres ver todos los cursos que he hecho entra en en [mi perfil de Platzi](https://platzi.com/@kennylajara/).
