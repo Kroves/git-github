@@ -1,6 +1,6 @@
 # Práctica de Git y Github
 
-Este repositorio fue creado mientras aprendía a usar Git y Github en [este curso de Platzi](https://platzi.com/clases/git-github/ "este curso de Platzi"). Si quieres ver los detalles de lo que iba realizando, tendrás que ver los commints o hacer un _Fork_ del proyecto para explorar los detalles de lo que fui realizando.
+Este repositorio fue creado mientras hacía [este curso de Git y Github](https://platzi.com/clases/git-github/). Si quieres ver los detalles de lo que iba realizando, tendrás que ver los commints o hacer un _Fork_ del proyecto para explorar los detalles de lo que fui realizando. Mira el [resultado final](https://kennylajara.github.io/git-github/).
 
 ## Lo que pude aprender
 
